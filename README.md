@@ -1,7 +1,5 @@
 yii
 ===
-master
-test
-test
+master1
 =======
 this repo for study yii
