@@ -1,6 +1,7 @@
 yii
 ===
 i
+i
 test
 test2
 =======
